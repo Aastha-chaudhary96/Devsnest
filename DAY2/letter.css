@@ -1,0 +1,12 @@
+body{
+    border: 2px solid black;
+    padding: 10px 10px;
+    background-color: blanchedalmond;
+
+}
+.background{
+    background-image: url('/image1.webp');
+    background-repeat: no-repeat;
+    padding: 5px 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
